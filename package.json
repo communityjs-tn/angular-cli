@@ -1,0 +1,30 @@
+{
+  "name": "angular-cli",
+  "version": "0.0.0",
+  "description": "angular command line tool.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/communityjs-tn/angular-cli.git"
+  },
+  "keywords": [
+    "angular",
+    "nodejs",
+    "cli"
+  ],
+  "author": "Anis B <leprinceanis@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/communityjs-tn/angular-cli/issues"
+  },
+  "homepage": "https://github.com/communityjs-tn/angular-cli",
+
+
+  "preferGlobal": "true",
+  "bin": {
+    "ng" : "index.js"
+  }
+}
