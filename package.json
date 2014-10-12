@@ -21,10 +21,12 @@
     "url": "https://github.com/communityjs-tn/angular-cli/issues"
   },
   "homepage": "https://github.com/communityjs-tn/angular-cli",
-
-
   "preferGlobal": "true",
   "bin": {
-    "ng" : "index.js"
+    "ng": "index.js"
+  },
+  "dependencies": {
+    "q": "~1.0.1",
+    "extend": "~2.0.0"
   }
 }
