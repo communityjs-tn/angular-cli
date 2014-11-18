@@ -2,5 +2,5 @@
 
 angular-cli (develop)
 ===========
-force commit.
+
 Angular command line tool.
