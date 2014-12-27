@@ -27,6 +27,7 @@
   },
   "dependencies": {
     "q": "~1.0.1",
-    "extend": "~2.0.0"
+    "extend": "~2.0.0",
+    "request": "~2.51.0"
   }
 }
